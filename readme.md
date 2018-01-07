@@ -22,7 +22,7 @@ cd kmder-kmds
 yarn install # or npm install
 ```
 
-Finally, add `kmder-kmds` as source for `kmder`:
+Finally, add `kmder-kmds` as a source for `kmder`:
 
 ```shell
 > kmd source add kmder-kmds path/to/clone
