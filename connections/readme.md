@@ -1,0 +1,1 @@
+Place shared connection strings in `/connections`

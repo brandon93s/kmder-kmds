@@ -1,0 +1,11 @@
+{
+  "name": "kmder-kmds",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brandon93s/kmder-kmds.git",
+  "author": "Brandon Smith <brandon93s@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
+}
