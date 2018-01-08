@@ -95,6 +95,25 @@ $ kmd google time in ATL
 </p>
 </details>
 <br />
+<details><summary>crypto</summary>
+<p>
+
+The `crypto` command returns pricing information for the given crypto coin and currency:
+
+
+```sh
+$ kmd crypto xrp usd
+> -
+  base:   XRP
+  target: USD
+  price:  2.58750026
+  volume: 84580304.47344100
+  change: -0.07019374
+```
+
+</p>
+</details>
+<br />
 
 ## License
 
