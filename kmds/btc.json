@@ -1,5 +1,4 @@
 {
-    "description": "Report the current price of BTC in USD",
     "type": "http",
     "url": "https://api.coindesk.com/v1/bpi/currentprice.json",
     "jp": "$.bpi.USD.rate_float"

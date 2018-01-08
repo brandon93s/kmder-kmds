@@ -1,5 +1,4 @@
 {
-    "description": "Report the exchange rate between two currencies: kmd fx {C1} {C2}",
     "type": "http",
     "url": "https://api.fixer.io/latest?base={0}&symbols={1}",
     "jp": "$.rates.{1}"
