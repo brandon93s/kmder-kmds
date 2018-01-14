@@ -114,6 +114,25 @@ $ kmd crypto xrp usd
 </p>
 </details>
 <br />
+<details><summary>news</summary>
+<p>
+
+The `news` command returns headlines and summaries for the given term(s):
+
+
+```sh
+$ kmd news spectre
+> -
+  title:   Meltdown, Spectre, Malicious Apps, and More of This Week's Security News  
+  summary: Meltdown, Spectre, malicious Android apps, and more of the week's top security news.
+  source:  Wired
+  url:     https://www.wired.com/story/google-pulls-60-malicious-apps-from-play-store/
+  date:    2018-01-13T13:00:00Z
+```
+
+</p>
+</details>
+<br />
 
 ## License
 

@@ -6,6 +6,7 @@
   "author": "Brandon Smith <brandon93s@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "got": "^8.0.2",
     "opn": "^5.1.0"
   }
 }
